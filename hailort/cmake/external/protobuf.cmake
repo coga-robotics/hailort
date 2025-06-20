@@ -5,9 +5,6 @@ include(FetchContent)
 # TODO: support cross generators - https://gitlab.kitware.com/cmake/cmake/-/issues/20536
 FetchContent_Declare(
     protobuf
-    GIT_REPOSITORY  https://github.com/protocolbuffers/protobuf.git
-    GIT_TAG         f0dc78d7e6e331b8c6bb2d5283e06aa26883ca7c # v21.12
-    GIT_SHALLOW     TRUE
     SOURCE_DIR      ${HAILO_EXTERNAL_DIR}/protobuf-src
     SUBBUILD_DIR    ${HAILO_EXTERNAL_DIR}/protobuf-subbuild
 )

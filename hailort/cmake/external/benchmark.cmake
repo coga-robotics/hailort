@@ -8,9 +8,6 @@ set(BENCHMARK_ENABLE_TESTING OFF CACHE BOOL "Enable testing of the benchmark lib
 
 FetchContent_Declare(
     benchmark
-    GIT_REPOSITORY https://github.com/google/benchmark.git 
-    GIT_TAG f91b6b42b1b9854772a90ae9501464a161707d1e # Version 1.6.0
-    GIT_SHALLOW TRUE
     SOURCE_DIR ${HAILO_EXTERNAL_DIR}/benchmark-src
     SUBBUILD_DIR ${HAILO_EXTERNAL_DIR}/benchmark-subbuild
 )

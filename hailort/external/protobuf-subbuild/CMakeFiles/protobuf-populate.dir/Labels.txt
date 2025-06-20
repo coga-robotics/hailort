@@ -1,0 +1,14 @@
+# Target labels
+ protobuf-populate
+# Source files and their labels
+/root/git/test/hailort/hailort/external/protobuf-subbuild/CMakeFiles/protobuf-populate
+/root/git/test/hailort/hailort/external/protobuf-subbuild/CMakeFiles/protobuf-populate.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/CMakeFiles/protobuf-populate-complete.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-install.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-mkdir.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-download.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-update.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-patch.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-configure.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-build.rule
+/root/git/test/hailort/hailort/external/protobuf-subbuild/protobuf-populate-prefix/src/protobuf-populate-stamp/protobuf-populate-test.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/CMakeFiles/dotwriter-populate"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/CMakeFiles/dotwriter-populate.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/CMakeFiles/dotwriter-populate-complete.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-install.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-mkdir.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-download.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-update.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-patch.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-configure.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-build.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dotwriter-populate"
+		],
+		"name" : "dotwriter-populate"
+	}
+}

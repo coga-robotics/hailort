@@ -1,0 +1,2 @@
+/bin/ar qc libabsl_flags_reflection.a  CMakeFiles/flags_reflection.dir/reflection.cc.o
+/bin/ranlib libabsl_flags_reflection.a

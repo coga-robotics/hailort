@@ -1,0 +1,10 @@
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/install/strip.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/install/local.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/install.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/list_install_components.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/rebuild_cache.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/edit_cache.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/protoc.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/libprotobuf.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/libprotoc.dir
+/root/git/test/hailort/hailort/external/protobuf-build/CMakeFiles/libprotobuf-lite.dir

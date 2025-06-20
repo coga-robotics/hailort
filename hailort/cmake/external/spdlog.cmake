@@ -4,9 +4,6 @@ include(FetchContent)
 
 FetchContent_Declare(
     spdlog
-    GIT_REPOSITORY https://github.com/gabime/spdlog
-    GIT_TAG 22a169bc319ac06948e7ee0be6b9b0ac81386604
-    GIT_SHALLOW TRUE
     SOURCE_DIR ${HAILO_EXTERNAL_DIR}/spdlog-src
     SUBBUILD_DIR ${HAILO_EXTERNAL_DIR}/spdlog-subbuild
 )

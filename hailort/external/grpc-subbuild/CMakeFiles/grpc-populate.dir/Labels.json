@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/CMakeFiles/grpc-populate"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/CMakeFiles/grpc-populate.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/CMakeFiles/grpc-populate-complete.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-install.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-mkdir.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-download.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-update.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-patch.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-configure.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-build.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"grpc-populate"
+		],
+		"name" : "grpc-populate"
+	}
+}

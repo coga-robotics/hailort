@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/CMakeFiles/readerwriterqueue-populate"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/CMakeFiles/readerwriterqueue-populate.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/CMakeFiles/readerwriterqueue-populate-complete.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-install.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-mkdir.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-download.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-update.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-patch.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-configure.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-build.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"readerwriterqueue-populate"
+		],
+		"name" : "readerwriterqueue-populate"
+	}
+}

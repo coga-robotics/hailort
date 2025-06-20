@@ -4,9 +4,6 @@ include(FetchContent)
 
 FetchContent_Declare(
     dotwriter
-    GIT_REPOSITORY https://github.com/hailo-ai/DotWriter
-    GIT_TAG e5fa8f281adca10dd342b1d32e981499b8681daf # Version master
-    GIT_SHALLOW TRUE
     SOURCE_DIR ${HAILO_EXTERNAL_DIR}/dotwriter-src
     SUBBUILD_DIR ${HAILO_EXTERNAL_DIR}/dotwriter-subbuild
 )

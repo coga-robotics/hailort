@@ -1,0 +1,14 @@
+# Target labels
+ grpc-populate
+# Source files and their labels
+/root/git/test/hailort/hailort/external/grpc-subbuild/CMakeFiles/grpc-populate
+/root/git/test/hailort/hailort/external/grpc-subbuild/CMakeFiles/grpc-populate.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/CMakeFiles/grpc-populate-complete.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-install.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-mkdir.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-download.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-update.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-patch.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-configure.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-build.rule
+/root/git/test/hailort/hailort/external/grpc-subbuild/grpc-populate-prefix/src/grpc-populate-stamp/grpc-populate-test.rule

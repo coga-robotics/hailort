@@ -1,0 +1,14 @@
+# Target labels
+ dotwriter-populate
+# Source files and their labels
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/CMakeFiles/dotwriter-populate
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/CMakeFiles/dotwriter-populate.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/CMakeFiles/dotwriter-populate-complete.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-install.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-mkdir.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-download.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-update.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-patch.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-configure.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-build.rule
+/root/git/test/hailort/hailort/external/dotwriter-subbuild/dotwriter-populate-prefix/src/dotwriter-populate-stamp/dotwriter-populate-test.rule

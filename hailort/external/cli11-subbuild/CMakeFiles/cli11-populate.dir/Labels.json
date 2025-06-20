@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/CMakeFiles/cli11-populate"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/CMakeFiles/cli11-populate.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/CMakeFiles/cli11-populate-complete.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/cli11-populate-prefix/src/cli11-populate-stamp/cli11-populate-install.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/cli11-populate-prefix/src/cli11-populate-stamp/cli11-populate-mkdir.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/cli11-populate-prefix/src/cli11-populate-stamp/cli11-populate-download.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/cli11-populate-prefix/src/cli11-populate-stamp/cli11-populate-update.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/cli11-populate-prefix/src/cli11-populate-stamp/cli11-populate-patch.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/cli11-populate-prefix/src/cli11-populate-stamp/cli11-populate-configure.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/cli11-populate-prefix/src/cli11-populate-stamp/cli11-populate-build.rule"
+		},
+		{
+			"file" : "/root/git/test/hailort/hailort/external/cli11-subbuild/cli11-populate-prefix/src/cli11-populate-stamp/cli11-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cli11-populate"
+		],
+		"name" : "cli11-populate"
+	}
+}

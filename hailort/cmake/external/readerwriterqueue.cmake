@@ -4,9 +4,6 @@ include(FetchContent)
 
 FetchContent_Declare(
     readerwriterqueue
-    GIT_REPOSITORY https://github.com/cameron314/readerwriterqueue
-    GIT_TAG 435e36540e306cac40fcfeab8cc0a22d48464509 # Version 1.0.3
-    GIT_SHALLOW TRUE
     SOURCE_DIR ${HAILO_EXTERNAL_DIR}/readerwriterqueue-src
     SUBBUILD_DIR ${HAILO_EXTERNAL_DIR}/readerwriterqueue-subbuild
 )

@@ -1,0 +1,2 @@
+/bin/ar qc libabsl_flags.a  CMakeFiles/flags.dir/flag.cc.o
+/bin/ranlib libabsl_flags.a

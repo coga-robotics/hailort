@@ -4,9 +4,6 @@ include(FetchContent)
 
 FetchContent_Declare(
     catch2
-    GIT_REPOSITORY https://github.com/catchorg/Catch2.git 
-    GIT_TAG c4e3767e265808590986d5db6ca1b5532a7f3d13 # Version 2.13.7
-    GIT_SHALLOW TRUE
     SOURCE_DIR ${HAILO_EXTERNAL_DIR}/catch2-src
     SUBBUILD_DIR ${HAILO_EXTERNAL_DIR}/catch2-subbuild
 )

@@ -4,9 +4,6 @@ include(FetchContent)
 
 FetchContent_Declare(
     pevents
-    GIT_REPOSITORY https://github.com/neosmart/pevents.git
-    GIT_TAG 1209b1fd1bd2e75daab4380cf43d280b90b45366 # Master
-    #GIT_SHALLOW TRUE
     SOURCE_DIR ${HAILO_EXTERNAL_DIR}/pevents-src
     SUBBUILD_DIR ${HAILO_EXTERNAL_DIR}/pevents-subbuild
 )

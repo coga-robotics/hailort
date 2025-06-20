@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+/root/git/test/hailort/hailort/external/json-subbuild/CMakeFiles/json-populate
+/root/git/test/hailort/hailort/external/json-subbuild/CMakeFiles/json-populate.rule
+/root/git/test/hailort/hailort/external/json-subbuild/CMakeFiles/json-populate-complete.rule
+/root/git/test/hailort/hailort/external/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+/root/git/test/hailort/hailort/external/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+/root/git/test/hailort/hailort/external/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+/root/git/test/hailort/hailort/external/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule
+/root/git/test/hailort/hailort/external/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+/root/git/test/hailort/hailort/external/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+/root/git/test/hailort/hailort/external/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+/root/git/test/hailort/hailort/external/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
