@@ -9,6 +9,8 @@ if [ -d "$HAILORT_BUILD_DIR" ]; then
 	sudo rm -r $HAILORT_BUILD_DIR
 fi
 
+find "$HAILORT_DIR" -type f -name "CMakeCache.txt" -exec rm -f {} \;
+
 
 echo "Hailort build Start"
 cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release -DHAILO_BUILD_SERVICE=1 -DHAILO_BUILD_GSTREAMER=1 && sudo cmake --build build --config release --target install
